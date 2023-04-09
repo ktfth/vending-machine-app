@@ -1,3 +1,9 @@
+# Vending Machine
+
+## Description
+
+A small experiment of a vending machine using xstate and react app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
